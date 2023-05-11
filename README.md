@@ -1,5 +1,19 @@
 # 💫 About Me:
-Hello! My name is Daniel, and I am a passionate frontend developer dedicated to continuous learning and expanding my skill set. Currently, I am actively engaged in deepening my understanding of frontend technologies, ranging from low-level to high-level concepts. My enthusiasm for creating visually appealing and interactive web applications drives me to constantly improve.<br><br>One of my ongoing projects is the development of my own graphics library called DOMeffect. I strive to create an intuitive and efficient tool for manipulating DOM elements and adding web effects, making web pages even more dynamic and captivating for users.<br><br>I am also highly interested in collaborating with companies that can help me grow in all areas and knowledge. I aim to find an environment where my skills and expertise are valued, and where I can continue to explore new technologies and cutting-edge development practices.<br><br>In my work, I value code quality and clarity, as well as a focus on user experience. I believe that a beautiful and intuitive interface is crucial for achieving success in web development.<br><br>If you and your company share my passion for innovation and are committed to constant growth, I would be delighted to consider opportunities for collaboration with you. Let's create amazing web applications together and bring innovation to the online world.<br><br>Best regards,<br>Daniel
+Hello! My name is Daniil and I am a developer with experience in various web technologies. My tech stack includes the following:
+
+I am proficient in JavaScript, Python, and PHP, and I have experience in developing web applications and single-page applications using HTML5, CSS3, and various frameworks, including React, React Native, and React Router. I have also worked with Redux to manage application state.
+
+I am familiar with development tools such as Webpack, Gulp, and Babel, which help me with build processes and development automation. I also use NPM for package management.
+
+In addition, I have skills in design tools such as Figma, Sketch, Adobe Photoshop, and Adobe Lightroom, allowing me to create attractive and intuitive user interfaces.
+
+I also have experience working with Arduino and Raspberry Pi for IoT (Internet of Things) projects, enabling me to create smart devices and prototypes.
+
+Overall, I strive to stay up to date with the latest technology trends and I am always eager to learn new tools and approaches. I am dedicated to delivering high-quality and innovative web applications with excellent performance and responsiveness.
+
+If you are interested in my experience or would like to discuss potential collaboration, please feel free to contact me. I am open to new challenges and ready to start working.
+
+Thank you for your attention, and I look forward to the opportunity to work together!
 
 
 ## 🌐 Socials:
