@@ -13,6 +13,8 @@ Overall, I strive to stay up to date with the latest technology trends and I am 
 
 If you are interested in my experience or would like to discuss potential collaboration, please feel free to contact me. I am open to new challenges and ready to start working.
 
+In my repositories, you can find some of my open projects.
+
 Thank you for your attention, and I look forward to the opportunity to work together!
 
 
