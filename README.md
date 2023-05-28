@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! My name is Daniil and I am a developer with experience in various web technologies. My tech stack includes the following:
 
-I am proficient in JavaScript, and I have experience in developing web applications and single-page applications using HTML5, CSS3, and various frameworks, including React, and React Router. I have also worked with Redux to manage application state.
+I am proficient in JavaScript, and I have experience in developing web applications and single-page applications using HTML5, CSS3, and various frameworks, including React. I have also worked with Redux to manage application state.
 
 
 
