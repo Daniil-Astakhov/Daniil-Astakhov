@@ -15,7 +15,6 @@ My name is Daniil, and I'm a developer with experience in various web technologi
     Express.js REST API
     Socket.io
     Axios
-    TypeScript
     Webpack
     Git
 
