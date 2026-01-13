@@ -5,6 +5,7 @@ My name is Daniil, and I'm a developer with experience in various web technologi
 
     JavaScript (ES6+)
     React
+    Electron
     Redux and Redux Toolkit
     Next.js
     Node.js
@@ -18,13 +19,7 @@ My name is Daniil, and I'm a developer with experience in various web technologi
     Webpack
     Git
 
-I'm proficient in JavaScript (including modern ES6+ features) and have experience in developing web applications and single-page applications using React. I'm also familiar with Redux and Redux Toolkit for managing application state.
 
-In my projects, I utilize Next.js for server-side rendering and static generation of React applications. Additionally, I have worked with Node.js, RTK Query, Python, CSS, CSS preprocessors, MongoDB, Express.js REST API, Socket.io, Axios, TypeScript, Webpack, and Git.
-
-I strive to continuously improve my skills and stay up to date with the latest technological trends. If you have any questions or collaboration opportunities, feel free to reach out to me.
-
-Thank you for your attention! 😊
 
 
 
